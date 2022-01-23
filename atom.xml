@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chengh-GitHub.github.io</id>
     <title>chengh</title>
-    <updated>2022-01-23T05:03:25.354Z</updated>
+    <updated>2022-01-23T06:06:36.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chengh-GitHub.github.io"/>
     <link rel="self" href="https://chengh-GitHub.github.io/atom.xml"/>
@@ -11,12 +11,30 @@
     <icon>https://chengh-GitHub.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, chengh</rights>
     <entry>
+        <title type="html"><![CDATA[AD工程创建]]></title>
+        <id>https://chengh-GitHub.github.io/post/ad-gong-cheng-chuang-jian/</id>
+        <link href="https://chengh-GitHub.github.io/post/ad-gong-cheng-chuang-jian/">
+        </link>
+        <updated>2022-01-23T05:05:00.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="font-colorred1-新建项目prjpcbfont"><font color="red">1、新建项目（.PrjPcb）</font></h2>
+<figure data-type="image" tabindex="1"><img src="https://chengh-GitHub.github.io/post-images/1642914603634.png" alt="" loading="lazy"></figure>
+<h2 id="font-colorred2-新建原理图库schlibfont"><font color="red">2、新建原理图库（.SchLib）</font></h2>
+<figure data-type="image" tabindex="2"><img src="https://chengh-GitHub.github.io/post-images/1642914948903.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[①第一篇]]></title>
         <id>https://chengh-GitHub.github.io/post/yi-ji-biao-ti/</id>
         <link href="https://chengh-GitHub.github.io/post/yi-ji-biao-ti/">
         </link>
         <updated>2022-01-13T16:23:26.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="二级标题">二级标题</h2>
+        <content type="html"><![CDATA[<h4 id="使用-font-的标签的修改文字前景色">使用 <code>&lt;font&gt;</code> 的标签的修改文字前景色</h4>
+<p><font color="red">红色</font><br>
+<font color="green">绿色</font><br>
+<font color="blue">蓝色</font></p>
+<p><font color="rgb(200, 100, 100)">使用 rgb 颜色值</font></p>
+<p><font color="#FF00BB">使用十六进制颜色值</font></p>
+<h2 id="二级标题">二级标题</h2>
 <p>第2行</p>
 <h3 id="三级标题">三级标题</h3>
 <p>第3行</p>
