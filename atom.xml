@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chengh-GitHub.github.io</id>
     <title>chengh</title>
-    <updated>2022-01-23T10:03:40.524Z</updated>
+    <updated>2022-01-25T08:27:44.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chengh-GitHub.github.io"/>
     <link rel="self" href="https://chengh-GitHub.github.io/atom.xml"/>
@@ -20,10 +20,10 @@
 <figure data-type="image" tabindex="1"><img src="https://chengh-GitHub.github.io/post-images/1642914603634.png" alt="" loading="lazy"></figure>
 <h2 id="font-colorred2-新建原理图fontfont-colorgreen库fontfont-colorredschlibfont"><font color="red">2、新建原理图</font><font color="green">库</font><font color="red">（.SchLib）</font></h2>
 <figure data-type="image" tabindex="2"><img src="https://chengh-GitHub.github.io/post-images/1642914948903.png" alt="" loading="lazy"></figure>
-<h2 id="font-colorred3-新建原理图schdocfont"><font color="red">3、新建原理图（.SchDoc）</font></h2>
-<figure data-type="image" tabindex="3"><img src="https://chengh-GitHub.github.io/post-images/1642920015358.png" alt="" loading="lazy"></figure>
-<h2 id="font-colorred4-新建pcb元件fontfont-colorgreen库fontfont-colorredpcblibfont"><font color="red">4、新建PCB元件</font><font color="green">库</font><font color="red">（.PcbLib）</font></h2>
-<figure data-type="image" tabindex="4"><img src="https://chengh-GitHub.github.io/post-images/1642920213134.png" alt="" loading="lazy"></figure>
+<h2 id="font-colorred3-新建pcb元件fontfont-colorgreen库fontfont-colorredpcblibfont"><font color="red">3、新建PCB元件</font><font color="green">库</font><font color="red">（.PcbLib）</font></h2>
+<figure data-type="image" tabindex="3"><img src="https://chengh-GitHub.github.io/post-images/1642920213134.png" alt="" loading="lazy"></figure>
+<h2 id="font-colorred4-新建原理图schdocfont"><font color="red">4、新建原理图（.SchDoc）</font></h2>
+<figure data-type="image" tabindex="4"><img src="https://chengh-GitHub.github.io/post-images/1642920015358.png" alt="" loading="lazy"></figure>
 <h2 id="font-colorred5-新建pcbpcbdocfont"><font color="red">5、新建PCB（.PcbDoc）</font></h2>
 <figure data-type="image" tabindex="5"><img src="https://chengh-GitHub.github.io/post-images/1642920252039.png" alt="" loading="lazy"></figure>
 ]]></content>
